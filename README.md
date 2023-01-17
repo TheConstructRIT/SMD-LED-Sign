@@ -14,16 +14,9 @@ There are no stable versions for release. The latest WIP is Version 1.1
 The kit is currently being developed to Version 1.2.
 
 ## What's New
-Version 1.2 will likely be the first publicly-available version of the kit, implementing a number of changes and improvements;
-* Consider swapping to 1206 components, easier for first-time solderers to assemble
-* Remove SOT23-5 voltage regulator (testing found it too difficult to solder), also removes the need for logic-level shifting
-* Remove the reverse-polarity MOSFET from the power input to reduce part count
-* Switch to easier-to-solder SMD LEDs, potentially integrated WS2812-style LEDs to also eliminate the need for the external packaged drivers
-* Consider moving the LEDs to the opposite side of the board for a cleaner look/design (will require taller feet for the potentiometers to clear)
-* Silkscreen passive component values for easier assembly
-* Designate position for JLCPCB identification number
-* Replace calibration pot for noise-activated system with something easier to solder
-* Consider alternative PCB colors
+Version 1.2 will likely be the first publicly-available version of the kit, implementing a number of changes and improvements. 
+
+See [Proposed Changes](https://github.com/TheConstructRIT/SMD-LED-Sign/wiki/Version-History#proposed-changes) for more information.
 
 ## Instructions & Further Documentation
 [See the wiki on GitHub!](https://github.com/TheConstructRIT/SMD-LED-Sign/wiki).
